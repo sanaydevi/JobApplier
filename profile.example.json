@@ -1,0 +1,17 @@
+{
+  "target_titles": [
+    "Software Engineer",
+    "Backend Engineer",
+    "Platform Engineer",
+    "AI Engineer"
+  ],
+  "skills": [],
+  "master_resume": "Resumes/master_resume.md",
+  "priority_regions": [
+    "United States",
+    "Mumbai",
+    "Pune",
+    "New York",
+    "London"
+  ]
+}
